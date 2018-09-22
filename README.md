@@ -37,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ## SURVEY TIME
-<iframe src="https://bino.qualtrics.com/jfe/form/SV_71HCqhKtivmF8lT" width="1100" height="600"></iframe>
+<iframe src="https://bino.qualtrics.com/jfe/form/SV_71HCqhKtivmF8lT" width="2100" height="600"></iframe>
